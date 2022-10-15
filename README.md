@@ -53,4 +53,4 @@ matrix, the file extension is .txt or .csv.
 
 **For additional information about the project and how it works use the [project description file](project%20description.pdf).**
 
-Made by [@asafyi](https://github.com/asafyi) && [@NivZindrof](https://github.com/NivZindorf)
+***Made by [@asafyi](https://github.com/asafyi) && [@NivZindrof](https://github.com/NivZindorf)***
