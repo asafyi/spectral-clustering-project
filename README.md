@@ -8,11 +8,11 @@ The project requirements: [project description.pdf](project%20description.pdf)
 
 ## C Interface
 ### How to build
-```
+```bash
 bash comp.sh
 ```
 ### How to execute
-```
+```bash
 ./spkmeans <goal> <input_file>
 ```
 **goal (enum):** Can get the following values:
@@ -30,11 +30,11 @@ matrix, the file extension is .txt or .csv.
 ### Requirements
  - numpy
 ### How to build
-```
+```bash
 python3 setup.py build_ext --inplace
 ```
 ### How to execute
-```
+```bash
 python3 spkmeans.py <k> <goal> <input_file>
 ```
 **k (int, < N):** Number of required clusters. If equal 0, uses the eigengap heuristic algorithm.
